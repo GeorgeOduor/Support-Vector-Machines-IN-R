@@ -9,5 +9,5 @@ analysis steps i have taken to understand the data better before fitting the mod
 The project main objective is to classify breast cancer cells into a non recurrent event or recurrent.
 
 ___
-The project kernel is here.
+### <The project [kernel is here](https://github.com/GeorgeOduor/Support-Vector-Machines-IN-R/blob/master/suportvectormachines2.md).
 ___
