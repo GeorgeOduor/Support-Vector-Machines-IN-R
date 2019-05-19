@@ -804,10 +804,12 @@ confusionMatrix(preds2,as.factor(test$class))
 
 ## Finally
 
-By introducing the hyperparameters we can see that the model improves in
+By tuning the hyperparameters, we can see that the model improves in
 the number of *occurence events* prediction as compared.
 
 When carrying out SVMs it is a good practice to encode categorical
 variables and scale continous variables.During one hot encoding ,one
 newly created variable should be dropped to avoid the **dummy variable
 trap**\_ problem.
+
+
