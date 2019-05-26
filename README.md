@@ -13,7 +13,5 @@ For easy implementation you might concider reading **Support vector machine from
 ___
 ### [Support Vector Machines from Scratch.](https://github.com/GeorgeOduor/Support-Vector-Machines-IN-R/blob/master/support%20vector%20machines.ipynb)
 ___
-
-___
 ### The project [kernel is here](https://github.com/GeorgeOduor/Support-Vector-Machines-IN-R/blob/master/suportvectormachines2.md).
 ___
