@@ -11,7 +11,7 @@ The project main objective is to classify breast cancer cells into a non recurre
 For easy implementation you might concider reading **Support vector machine from scrath** in the link bellow.
 
 ___
-### [Support Vector Machines from Scratch.]()
+### [Support Vector Machines from Scratch.](https://github.com/GeorgeOduor/Support-Vector-Machines-IN-R/blob/master/support%20vector%20machines.ipynb)
 ___
 
 ___
