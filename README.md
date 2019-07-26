@@ -1,4 +1,4 @@
-# Support Vector Machines IN R - Breascancer Relapse Prediction
+# Support Vector Machines IN R - Breast Cancer Relapse Prediction
 
 # Introduction to the project.
 
